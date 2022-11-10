@@ -17,6 +17,7 @@ using System.Collections.Generic;
  * используя try-catch блоки.
  */
 
+
 namespace AreaOfFigures
 {
     //Базовый класс для фигуры
