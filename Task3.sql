@@ -4,7 +4,6 @@
  */
 
 use ProdCat;
-
 CREATE TABLE Products (
 	Id INT PRIMARY KEY,
 	"Name" TEXT NOT NULL
