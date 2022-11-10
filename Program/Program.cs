@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using AreaOfFigures;
 
+
 namespace Program
 {
     class Program
